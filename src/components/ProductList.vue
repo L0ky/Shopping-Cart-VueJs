@@ -47,7 +47,7 @@
 </template>
 
 <script>
-import productsData from "../data/products-data.json";
+import productsData from "/public/data/products-data.json";
 import { useCart } from "../stores/useCart";
 
 export default {

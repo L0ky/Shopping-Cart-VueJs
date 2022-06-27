@@ -2,7 +2,7 @@
   <header class="shadow-md relative">
     <nav class="flex justify-between px-10 lg:px-40 py-5 items-center">
       <div>
-        <img src="../assets/logo.svg" width="50" alt="" />
+        <img src="/assets/logo.svg" width="50" alt="" />
       </div>
       <div class="lg:block hidden">
         <a href="#" class="text-lg">Accueil</a>

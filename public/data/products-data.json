@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Banane",
+        "price": 3,
+        "image": "../assets/banane.png"
+    },
+    {
+        "id": 2,
+        "name": "Pomme",
+        "price": 5,
+        "image": "../assets/pomme.png"
+    },
+    {
+        "id": 3,
+        "name": "Fraise",
+        "price": 2,
+        "image": "../assets/fraise.png"
+    },
+    {
+        "id": 4,
+        "name": "Raisin",
+        "price": 2.5,
+        "image": "../assets/les-raisins.png"
+    },
+    {
+        "id": 5,
+        "name": "Poire",
+        "price": 1.5,
+        "image": "../assets/poire.png"
+    },
+    {
+        "id": 6,
+        "name": "Prune",
+        "price": 2,
+        "image": "../assets/prune.png"
+    },
+    {
+        "id": 7,
+        "name": "Cerise",
+        "price": 0.5,
+        "image": "../assets/cerise.png"
+    },
+    {
+        "id": 8,
+        "name": "Noix de coco",
+        "price": 9,
+        "image": "../assets/noix-de-coco.png"
+    },
+    {
+        "id": 8,
+        "name": "Pêche",
+        "price": 2,
+        "image": "../assets/peche.png"
+    }
+
+]
